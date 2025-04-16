@@ -326,37 +326,37 @@ const blogSection = {
       url: "https://github.com/vanzel27",
       title: "Recipe Generation Using AI",
       description:
-        "Built an AI-powered recipe and dessert platform using Reactjs ,Expressjs and OpenAI API that generates personalized recipes 40% faster, with Firebase ensuring reliable performance at scale."
+        "Built a React and Express-based app using OpenAI API to generate personalized recipes. Integrated Firebase for scalable performance and achieved 40% faster recipe delivery."
     },
     {
       url: "https://github.com/vanzel27",
       title: "Rental Car",
       description:
-        "Car Rental Project Using Spring Boot And MySQL"
+        "Developed a car rental system using Spring Boot and MySQL with features like car availability, booking, and user management."
     },
     {
       url: "https://github.com/vanzel27",
       title: "Brew Bot",
       description:
-        "An AI-powered chatbot for coffee shops, integrating LLMs, NLP, and a React Native app for enhanced customer service"
+        "Created an AI chatbot for coffee shops using LLMs, NLP, and React Native to enhance customer interaction and order handling."
     },
     {
       url: "https://github.com/vanzel27",
-      title: "College Project Plagarism System",
+      title: "College Project Plagiarism System",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Designed a machine learning model using CNN and RNN to detect plagiarism in student documents with high accuracy."
     },
     {
       url: "https://github.com/vanzel27",
-      title: "Spam SMS",
+      title: "Spam SMS Detector",
       description:
-        "Created a machine learning model that detects/classifies a SMS into SPAM or HAM (normal) based on the textual data using Natural Language Processing."
+        "Built a spam classifier using NLP and machine learning to accurately detect and label SMS messages as spam or ham."
     },
     {
       url: "https://github.com/vanzel27",
       title: "Blogging Website",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Developed a Node.js blogging platform integrating OpenAI, Google, and Yelp APIs for real-time content updates, improving server response time by 25%."
     },
   ],
   display: true // Set false to hide this section, defaults to true
